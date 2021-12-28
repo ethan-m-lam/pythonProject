@@ -4,12 +4,7 @@ import time
 Tankyselected = False
 Dandsyselected = False
 Mixxyselected = False
-# orig1 = 125.0
-# orig2 = 80.0
-# orig3 = 100.0
-# centerprint("message".center())
-# s = "hiad"
-# s.center(40)
+
 
 def centerprint(string):
     print(string.center(120))
