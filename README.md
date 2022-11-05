@@ -1,5 +1,4 @@
 # pythonProject
-BattleBots:
-A basic game involving a person choosing of three different tanks and fighting an AI with the same three tanks to choose from.
-All damage is within a random range and there is a secondary weapon dealing more damage at half the chance of hitting. 
+The Abandoned Building RPG
+A classic rpg based on a character traversing a pre-determined map fighting enemies, solving riddles, escaping a building.
 Enjoy!
