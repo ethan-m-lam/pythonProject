@@ -1,7 +1,10 @@
 # pythonProject
-1. The Abandoned Building RPG: 
-A classic rpg with a character traversing a pre-determined map fighting enemies, solving riddles, escaping a building.
+Two Python Passion Projects
 
-2. BattleBots: Control a character that has two attacks, a base and a secondary that deals more damage at a risk of missing and fight a randomly generated bot.
+1. The Abandoned Building RPG: 
+A rogue-like RPG with a GUI interface built on Tkinter featuring a character traversing a map, fighting enemies, and solving riddles.
+
+2. BattleBots: 
+A text-based turn-reliant battle between two tanks, one controlled by the user and the other by an algorithm.
 
 Enjoy!
